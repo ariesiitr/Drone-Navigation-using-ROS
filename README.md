@@ -1,4 +1,4 @@
-# Drone-Navigation-using-ROS
+# Drone-Obstacle-Avoidance-ROS
 ### Prerequisite
 Installation of ROS and Gazebo
 ### Installation 
