@@ -62,3 +62,4 @@ the edges of the ellipsoidal potential field have different distances to the UAV
 ellipsoidal repulsive field can give a larger repulsive influence to the obstacles located at high collision
 possibilities, and the improved repulsive force also decreases with increasing distance as the
 conventional repulsive force. 
+![Screenshot from 2022-05-22 23-15-07](https://user-images.githubusercontent.com/77221967/169708679-fcb37364-2173-401c-bb72-da15bc5de55b.png)
