@@ -69,6 +69,6 @@ in the space, and the relevant parameters set in this paper are shown in Table 2
 discussion of the parameters of the artificial potential field method in the literature [7]. The simulation
 results are shown in Fig. 4,Fig. (a) shows the traditional artificial potential field method, and Fig. (b)
 shows the improved artificial potential field method.
-##
+###
 ![Screenshot from 2022-05-22 23-29-02](https://user-images.githubusercontent.com/77221967/169709158-4db4de7d-ed20-4042-a87e-65b0490754b0.png)
 
