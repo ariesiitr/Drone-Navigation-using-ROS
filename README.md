@@ -47,3 +47,18 @@ cmake ..
 make -j4
 sudo make install
 ```
+## Obstacle Avoidance
+### Artificial Potential Field :
+In order to ensure the efficient passage and safety of the inspection UAV in the complex environment,
+the traditional spherical repulsive field of the artificial potential field method is improved into an
+ellipsoidal repulsive field, where the UAV velocity direction and the long semi-axis are always co-linear,
+and the ellipsoidal size is related to the magnitude of the components of the UAV velocity in the X-axis
+and Y-axis, and the Z-axis component is equal to the Y-axis component. As shown in Figure 2, the drone
+is located in the center of the ellipsoid, and the magnitude and direction of its velocity are represented
+by the vector, the positions of the obstacles are A and B, and the magnitude and direction of their
+velocities are represented by the vector and respectively. There exists a virtual ellipsoidal repulsive field
+around the UAV determined by the magnitude of its own motion velocity, and the obstacles located at
+the edges of the ellipsoidal potential field have different distances to the UAV. Therefore, the improved
+ellipsoidal repulsive field can give a larger repulsive influence to the obstacles located at high collision
+possibilities, and the improved repulsive force also decreases with increasing distance as the
+conventional repulsive force. 
